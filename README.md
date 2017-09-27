@@ -1,4 +1,4 @@
-== Robust LasCCA ==
+***LasCCA with Support for Missing Views***
 
 Python implementation of Large-scale GCCA (LasCCA) adapted to support data with no active
 features in views.  LasCCA is described here:
