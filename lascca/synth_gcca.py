@@ -10,7 +10,7 @@ Generate synthetic data as in scalable GCCA paper:
   organization={IEEE}
 }
 
-Validates the implementation of view-sparse (robust )scalable SUMCOR GCCA.
+Validates the implementation of view-sparse (robust) scalable LasCCA.
 
 Adrian Benton
 '''
