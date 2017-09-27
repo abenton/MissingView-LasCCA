@@ -3,14 +3,7 @@
 Python implementation of Large-scale GCCA (LasCCA) adapted to support data with no active
 features in views.  LasCCA is described here:
 
-> @inproceedings{fu2016efficient,
->   title={Efficient and distributed algorithms for large-scale generalized canonical correlations analysis},
->   author={Fu, Xiao and Huang, Kejun and Papalexakis, Evangelos E and Song, Hyun-Ah and Talukdar, Partha Pratim and Sidiropoulos, Nicholas D and Faloutsos, Christos and Mitchell, Tom},
->   booktitle={Data Mining (ICDM), 2016 IEEE 16th International Conference on},
->   pages={871--876},
->   year={2016},
->   organization={IEEE}
-> }
+> Fu, Xiao, et al. "Efficient and distributed algorithms for large-scale generalized canonical correlations analysis." Data Mining (ICDM), 2016 IEEE 16th International Conference on. IEEE, 2016.
 
 Run synthetic validation experiments with:
 
